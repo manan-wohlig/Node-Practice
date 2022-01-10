@@ -1,3 +1,3 @@
-exports.date = function() {
+exports.todayDate = function() {
     return Date();
 };
